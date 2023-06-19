@@ -111,15 +111,14 @@ We provide two taxonomies for GNN4TS. The first taxonomy (left) is task-oriented
 - Adaptive Spatiotemporal Transformer Graph Network for Traffic Flow Forecasting by IoT Loop Detectors
 
 ### GNNs for Time Series Classification (GNN4TSC)
-- Time2Graph: Revisiting Time Series Modeling with Dynamic Shapelets
-- Towards Similarity-Aware Time-Series Classification
-- Time2Graph+: Bridging Time Series and Graph Representation Learning via Multiple Attentions
-- LB-SimTSC: An Efficient Similarity-Aware Graph Neural Network for Semi-Supervised Time Series Classification
-- An Empirical Study of Graph-Based Approaches for Semi-Supervised Time Series Classification (A empirical survey like paper - a bakeoff)
-- Tapnet: Multivariate time series classification with attentional prototypical network
-- Multivariate Time Series Classification with Hierarchical Variational Graph Pooling
-- Graph-Guided Network for Irregularly Sampled Multivariate Time Series
-- TodyNet: Temporal Dynamic Graph Neural Network for Multivariate Time Series Classification
+- Time2Graph: Revisiting Time Series Modeling with Dynamic Shapelets (AAAI, 2020) [[paper]](https://arxiv.org/abs/1911.04143)
+- Towards Similarity-Aware Time-Series Classification (SDM, 2022) [[paper]](https://arxiv.org/abs/2201.01413)
+- Multivariate Time Series Classification with Hierarchical Variational Graph Pooling (Neural Network, 2022) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0893608022002970)
+- Graph-Guided Network for Irregularly Sampled Multivariate Time Series (ICLR, 2022) [[paper]](https://arxiv.org/abs/2110.05357)
+- Time2Graph+: Bridging Time Series and Graph Representation Learning via Multiple Attentions (TKDE, 2023) [[paper]](https://ieeexplore.ieee.org/document/9477138)
+- LB-SimTSC: An Efficient Similarity-Aware Graph Neural Network for Semi-Supervised Time Series Classification (DLG-AAAI, 23) [[paper]](https://arxiv.org/abs/2301.04838)
+- An Empirical Study of Graph-Based Approaches for Semi-Supervised Time Series Classification (arXiv, 2023) [[paper]](https://arxiv.org/abs/2104.08153)
+- TodyNet: Temporal Dynamic Graph Neural Network for Multivariate Time Series Classification (arXiv, 2023) [[paper]](https://arxiv.org/abs/2304.05078)
 
 ### GNNs for Time Series Anomaly Detection (GNN4TAD)
 - Multivariate time-series anomaly detection via graph attention network (ICDM, 2020) [[paper]](https://arxiv.org/abs/2009.02040)
