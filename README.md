@@ -122,23 +122,23 @@ We provide two taxonomies for GNN4TS. The first taxonomy (left) is task-oriented
 - TodyNet: Temporal Dynamic Graph Neural Network for Multivariate Time Series Classification
 
 ### GNNs for Time Series Anomaly Detection (GNN4TAD)
-- Multivariate time-series anomaly detection via graph attention network
-- Graph Neural Network-Based Anomaly Detection in Multivariate Time Series
-- Learning Graph Structures with Transformer for Multivariate Time Series Anomaly Detection in IoT
-- Time-Series Event Prediction with Evolutionary State Graph
-- Consistent anomaly detection and localization of multivariate time series via cross-correlation graph-based encoder–decoder gan.
-- Graph-augmented normalizing flows for anomaly detection of multiple time series
-- Grelen:Multivariate time series anomaly detection from the perspective of graph relational learning
-- Deep variational graph convolutional recurrent network for multivariate time series anomaly detection.
-- Learning Sparse Latent Graph Representations for Anomaly Detection in Multivariate Time Series
-- GTAD: Graph and Temporal Neural Network for Multivariate Time Series Anomaly Detection
-- Hypergraph Learning based Recommender System for Anomaly Detection, Control and Optimization
-- Hybrid anomaly detection via multihead dynamic graph attention networks for multivariate time series
-- Graph convolutional adversarial networks for spatiotemporal anomaly detection.
-- Multivariate Time Series Anomaly Detection via Dynamic Graph Forecasting
-- Time Series Subsequence Anomaly Detection via Graph Neural Networks 
-- VARIATIONAL ADAPTIVE GRAPH TRANSFORMER FOR MULTIVARIATE TIME SERIES MODELING
-- A CAUSAL APPROACH TO DETECTING MULTIVARIATE TIME-SERIES ANOMALIES AND ROOT CAUSES
+- Multivariate time-series anomaly detection via graph attention network (ICDM, 2020) [[paper]](https://arxiv.org/abs/2009.02040)
+- Graph Neural Network-Based Anomaly Detection in Multivariate Time Series (AAAI, 2021) [[paper]](https://arxiv.org/abs/2106.06947)
+- Learning Graph Structures with Transformer for Multivariate Time Series Anomaly Detection in IoT (IEEE IoT, 2021) [[paper]](https://arxiv.org/abs/2104.03466)
+- Time-Series Event Prediction with Evolutionary State Graph (WSDM, 2021) [[paper]](https://arxiv.org/abs/1905.05006)
+- Consistent anomaly detection and localization of multivariate time series via cross-correlation graph-based encoder–decoder gan. (IEEE TIM, 2021) [[paper]](https://ieeexplore.ieee.org/document/9666863)
+- Graph-augmented normalizing flows for anomaly detection of multiple time series (ICLR, 2022) [[paper]](https://arxiv.org/abs/2202.07857)
+- Grelen:Multivariate time series anomaly detection from the perspective of graph relational learning (IJCAI, 2022) [[paper]](https://www.ijcai.org/proceedings/2022/0332.pdf)
+- Deep variational graph convolutional recurrent network for multivariate time series anomaly detection. (ICML, 2022) [[paper]](https://proceedings.mlr.press/v162/chen22x.html)
+- Learning Sparse Latent Graph Representations for Anomaly Detection in Multivariate Time Series (KDD, 2022) [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539117)
+- GTAD: Graph and Temporal Neural Network for Multivariate Time Series Anomaly Detection (Entropy, 2022) [[paper]](https://www.mdpi.com/1099-4300/24/6/759)
+- Hypergraph Learning based Recommender System for Anomaly Detection, Control and Optimization (IEEE Big Data, 2023) [[paper]](https://ieeexplore.ieee.org/document/10020888)
+- Hybrid anomaly detection via multihead dynamic graph attention networks for multivariate time series (IEEE Access, 2022) [[paper]](https://ieeexplore.ieee.org/document/9758699)
+- Graph convolutional adversarial networks for spatiotemporal anomaly detection. (IEEE TNNLS, 2022) [[paper]](https://ieeexplore.ieee.org/document/9669110)
+- Multivariate Time Series Anomaly Detection via Dynamic Graph Forecasting (arXiv, 2023) [[paper]](https://arxiv.org/abs/2302.02051)
+- Time Series Subsequence Anomaly Detection via Graph Neural Networks (OpenReview, 2023) [[paper]](https://openreview.net/forum?id=73U_NlKaNx) 
+- VARIATIONAL ADAPTIVE GRAPH TRANSFORMER FOR MULTIVARIATE TIME SERIES MODELING (OpenReview, 2023) [[paper]](https://openreview.net/forum?id=PWWW73yQVp)
+- A CAUSAL APPROACH TO DETECTING MULTIVARIATE TIME-SERIES ANOMALIES AND ROOT CAUSES (arXiv, 2023) [[paper]](https://arxiv.org/abs/2206.15033)
 
 ### GNNs for Time Series Imputation (GNN4TSI)
 - Inductive Graph Neural Networks for Spatiotemporal Kriging
