@@ -161,26 +161,25 @@ To be continued...
 ## Applications
 
 ### Healthcare
-- GraphConvLSTM: Spatiotemporal Learning for Activity Recognition with Wearable Sensors
-- Graph temporal ensembling based semi-supervised convolutional neural network with noisy labels for histopathology image analysis
-- GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification
-- Graph neural network-based diagnosis prediction
-- A hybrid method of recurrent neural network and graph neural network for next-period prescription prediction
-- GATE: graph-attention augmented temporal neural network for medication recommendation
-- Knowledge guided diagnosis prediction via graph spatial-temporal network
-- Multi-view spatial-temporal graph convolutional networks with domain generalization for sleep stage classification
-- Interpretable temporal graph neural network for prognostic prediction of Alzheimer's disease using longitudinal neuroimaging data
-- Forecasting ambulance demand with profiled human mobility via heterogeneous multi-graph neural networks
-- SELF-SUPERVISED GRAPH NEURAL NETWORKS FOR IMPROVED ELECTROENCEPHALOGRAPHIC SEIZURE ANALYSIS
-- CausalGNN: Causal-Based Graph Neural Networks for Spatio-Temporal Epidemic Forecasting
-- Self-supervised learning for anomalous channel detection in eeg graphs: Application to seizure analysis
-- Temporal Multiresolution Graph Neural Networks For Epidemic Prediction
-- Graph-Guided Network for Irregularly Sampled Multivariate Time Series
-- Spatio-temporal fusion attention: A novel approach for remaining useful life prediction based on graph neural network
-- Causalgnn: Causal-based graph neural networks for spatio-temporal epidemic forecasting
-- Combining graph neural networks and spatio-temporal disease models to improve the prediction of weekly COVID-19 cases in Germany
-- Using Ubiquitous Mobile Sensing and Temporal Sensor-Relation Graph Neural Network to Predict Fluid Intake of End Stage Kidney Patients
-- Predicting COVID-19 pandemic by spatio-temporal graph neural networks: A New Zealand's study
+- GraphConvLSTM: Spatiotemporal Learning for Activity Recognition with Wearable Sensors (GLOBECOM, 2019) [[paper]](https://ieeexplore.ieee.org/document/9013934)
+- Graph temporal ensembling based semi-supervised convolutional neural network with noisy labels for histopathology image analysis (Medical Image Analysis, 2020) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841519301604)
+- GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification (IJCAI, 2020) [[paper]](https://www.ijcai.org/proceedings/2020/184)
+- Graph neural network-based diagnosis prediction (Big Data, 2020) [[paper]](https://www.liebertpub.com/doi/10.1089/big.2020.0070)
+- A hybrid method of recurrent neural network and graph neural network for next-period prescription prediction (International Journal of Machine Learning and Cybernetics, 2020) [[paper]](https://link.springer.com/article/10.1007/s13042-020-01155-x)
+- GATE: graph-attention augmented temporal neural network for medication recommendation (Access, 2020) [[paper]](https://ieeexplore.ieee.org/document/9134772)
+- Knowledge guided diagnosis prediction via graph spatial-temporal network (SDM, 2020) [[paper]](https://epubs.siam.org/doi/10.1137/1.9781611976236.3)
+- Multi-view spatial-temporal graph convolutional networks with domain generalization for sleep stage classification (TNSRE, 2021) [[paper]](https://arxiv.org/abs/2109.01824)
+- Interpretable temporal graph neural network for prognostic prediction of Alzheimer's disease using longitudinal neuroimaging data (BIBM, 2021) [[paper]](https://ieeexplore.ieee.org/document/9669504)
+- Forecasting ambulance demand with profiled human mobility via heterogeneous multi-graph neural networks (ICDE, 2021) [[paper]](https://ieeexplore.ieee.org/document/9458623)
+- Self-Supervised Graph Neural Networks for Improved Electroencephalographic Seizure Analysis (ICLR, 2022) [[paper]](https://arxiv.org/abs/2104.08336)
+- CausalGNN: Causal-Based Graph Neural Networks for Spatio-Temporal Epidemic Forecasting (AAAI, 2022) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21479)
+- Temporal Multiresolution Graph Neural Networks For Epidemic Prediction (arXiv, 2022) [[paper]](https://arxiv.org/abs/2205.14831)
+- Graph-Guided Network for Irregularly Sampled Multivariate Time Series (ICLR, 2022) [[paper]](https://arxiv.org/abs/2110.05357)
+- Spatio-temporal fusion attention: A novel approach for remaining useful life prediction based on graph neural network (TIM, 2022) [[paper]](https://ieeexplore.ieee.org/document/9801529)
+- Combining graph neural networks and spatio-temporal disease models to improve the prediction of weekly COVID-19 cases in Germany (Scientific Reports, 2022) [[paper]](https://www.nature.com/articles/s41598-022-07757-5)
+- Using Ubiquitous Mobile Sensing and Temporal Sensor-Relation Graph Neural Network to Predict Fluid Intake of End Stage Kidney Patients (IPSN, 2022) [[paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a286/962400a286.pdf)
+- Predicting COVID-19 pandemic by spatio-temporal graph neural networks: A New Zealand's study (arXiv, 2022) [[paper]](https://arxiv.org/abs/2305.07731)
+- Self-supervised learning for anomalous channel detection in eeg graphs: Application to seizure analysis (AAAI, 2023) [[paper]](https://arxiv.org/abs/2208.07448)
 
 ### Smart Transportation
 - Diffusion convolutional recurrent neural network: Data-driven traffic forecasting
@@ -262,37 +261,37 @@ To be continued...
 - Spatiotemporal air pollution forecasting in houston-TX: a case study for ozone using deep graph neural networks
 
 ### Internet of Things
-- Joint interaction and trajectory prediction for autonomous driving using graph neural network
-- Multiscale Spatio-Temporal Graph Neural Networks for 3D Skeleton-Based Motion Prediction
-- Semi-supervised hierarchical recurrent graph neural network for city-wide parking availability prediction. 
-- Learning Graph Structures with Transformer for Multivariate Time Series Anomaly Detection in IoT
-- Graph Neural Networks for Anomaly Detection in Industrial Internet of Things
-- Attentional-gcnn: Adaptive pedestrian trajectory pre- diction towards generic autonomous vehicle use cases
-- Dignet: Learning scalable self-driving policies for generic traffic scenarios with graph neural network
-- Detection	of tactical	patterns using semi-supervised graph neural	networks
-- Making Offensive Play Predictable - Using a Graph Convolutional Network to Understand Defensive Performance in Soccer 
-- Who You Play Affects How You Play: Predicting Sports Performance Using Graph Attention Networks With Temporal Convolution
+- Joint interaction and trajectory prediction for autonomous driving using graph neural network (arXiv, 2019) [[paper]](https://arxiv.org/abs/1912.07882)
+- Semi-supervised hierarchical recurrent graph neural network for city-wide parking availability prediction. (AAAI, 2020) [[paper]](https://arxiv.org/abs/1911.10516)
+- Multiscale Spatio-Temporal Graph Neural Networks for 3D Skeleton-Based Motion Prediction (IEEE-TIP, 2021) [[paper]](https://arxiv.org/abs/2108.11244)
+- Making Offensive Play Predictable - Using a Graph Convolutional Network to Understand Defensive Performance in Soccer (2021) [[paper]](https://www.researchgate.net/publication/350820443_Making_Offensive_Play_Predictable_-Using_a_Graph_Convolutional_Network_to_Understand_Defensive_Performance_in_Soccer)
+- Learning Graph Structures with Transformer for Multivariate Time Series Anomaly Detection in IoT (IEEE IoT, 2021) [[paper]](https://arxiv.org/abs/2104.03466)
+- Graph Neural Networks for Anomaly Detection in Industrial Internet of Things (IEEE IoT, 2021) [[paper]](https://ieeexplore.ieee.org/document/9471816)
+- Attentional-gcnn: Adaptive pedestrian trajectory pre- diction towards generic autonomous vehicle use cases (IEEE ICRA, 2021) [[paper]](https://ieeexplore.ieee.org/document/9561480)
+- Dignet: Learning scalable self-driving policies for generic traffic scenarios with graph neural network (IEEE IROS, 2021) [[paper]](https://ieeexplore.ieee.org/document/9636376)
+- Detection	of tactical	patterns using semi-supervised graph neural	networks (MIT Sloan Sports Analytics Conference, 2022) [[paper]](https://www.researchgate.net/publication/359079429_Detection_of_tactical_patterns_using_semi-supervised_graph_neural_networks)
+- Who You Play Affects How You Play: Predicting Sports Performance Using Graph Attention Networks With Temporal Convolution (arXiv, 2023) [[paper]](https://arxiv.org/abs/2303.16741)
 
 ### Fraud Detection
-- TIES: Temporal Interaction Embeddings For Enhancing Social Media Integrity At Facebook
-- Early Anomaly Detection by Learning and Forecasting Behavior
-- Recurrent Graph Neural Networks for Rumor Detection in Online Forums
-- Temporal Graph Representation Learning for Detecting Anomalies in E-payment Systems
-- Temporal-aware graph neural network for credit risk prediction
-- TeGraF: temporal and graph based fraudulent transaction detection framework
-- What Happens Behind the Scene? Towards Fraud Community Detection in E-Commerce from Online to Offline
-- Temporal Debiasing using Adversarial Loss based GNN architecture for Crypto Fraud Detection
-- APAN: Asynchronous Propagation Attention Network for Real-time Temporal Graph Embedding
-- Graph Neural Networks in Real-Time Fraud Detection with Lambda Architecture
-- Graph Neural Network for Fraud Detection via Spatial-Temporal Attention
-- A Novel Spatiotemporal Prediction Approach Based on Graph Convolution Neural Networks and Long Short-Term Memory for Money Laundering Fraud
-- Towards Fine-Grained Reasoning for Fake News Detection
-- Modelling graph dynamics in fraud detection with "Attention"
-- TTAGN:Temporal Transaction Aggregation Graph Network For Ethereum Phishing Scams Detection
-- Multi-view Heterogeneous Temporal Graph Neural Network for “Click Farming” Detection
-- BRIGHT - Graph Neural Networks in Real-time Fraud Detection
-- Exploiting Spatial-Temporal Behavior Patterns for Fraud Detection in Telecom Networks
-- Medical Insurance Fraud Detection using Graph Neural Networks with Spatio-temporal Constraints
+- TIES: Temporal Interaction Embeddings For Enhancing Social Media Integrity At Facebook (KDD, 2020) [[paper]](https://arxiv.org/abs/2002.07917)
+- Early Anomaly Detection by Learning and Forecasting Behavior (arXiv, 2021) [[paper]](https://www.researchgate.net/profile/Tong-Zhao-20/publication/344780238_Early_Anomaly_Detection_by_Learning_and_Forecasting_Behavior/links/5f924b9d458515b7cf96b321/Early-Anomaly-Detection-by-Learning-and-Forecasting-Behavior.pdf)
+- Recurrent Graph Neural Networks for Rumor Detection in Online Forums (arXiv, 2021) [[paper]](https://arxiv.org/abs/2108.03548)
+- Temporal Graph Representation Learning for Detecting Anomalies in E-payment Systems (ICDMW, 2021) [[paper]](https://ieeexplore.ieee.org/abstract/document/9680052)
+- Temporal-aware graph neural network for credit risk prediction (arXiv, 2021) [[paper]](https://arxiv.org/abs/2108.03548)
+- TeGraF: temporal and graph based fraudulent transaction detection framework (ICAIF, 2021) [[paper]](https://dl.acm.org/doi/10.1145/3490354.3494383)
+- What Happens Behind the Scene? Towards Fraud Community Detection in E-Commerce from Online to Offline (WWW, 2021) [[paper]](https://dl.acm.org/doi/10.1145/3442442.3451147)
+- Temporal Debiasing using Adversarial Loss based GNN architecture for Crypto Fraud Detection (ICMLA, 2021) [[paper]](https://ieeexplore.ieee.org/document/9680261)
+- APAN: Asynchronous Propagation Attention Network for Real-time Temporal Graph Embedding (SIGMOD/PODS, 2021) [[paper]](https://arxiv.org/abs/2011.11545)
+- Graph Neural Networks in Real-Time Fraud Detection with Lambda Architecture (arXiv, 2021) [[paper]](https://arxiv.org/abs/2110.04559) 
+- Graph Neural Network for Fraud Detection via Spatial-Temporal Attention (TKDE, 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9204584)
+- A Novel Spatiotemporal Prediction Approach Based on Graph Convolution Neural Networks and Long Short-Term Memory for Money Laundering Fraud (Arabian Journal for Science and Engineering, 2022) [[paper]](https://link.springer.com/article/10.1007/s13369-021-06116-2)
+- Towards Fine-Grained Reasoning for Fake News Detection (AAAI, 2022) [[paper]](https://arxiv.org/abs/2110.15064)
+- Modelling graph dynamics in fraud detection with "Attention" (arXiv, 2022) [[paper]](https://arxiv.org/abs/2204.10614)
+- TTAGN:Temporal Transaction Aggregation Graph Network For Ethereum Phishing Scams Detection (WWW, 2022) [[paper]](https://arxiv.org/abs/2204.13442)
+- Multi-view Heterogeneous Temporal Graph Neural Network for “Click Farming” Detection (PRICAI, 2022) [[paper]](https://dl.acm.org/doi/abs/10.1007/978-3-031-20862-1_11)
+- BRIGHT - Graph Neural Networks in Real-time Fraud Detection (CIKM, 2022) [[paper]](https://arxiv.org/abs/2110.04559)
+- Exploiting Spatial-Temporal Behavior Patterns for Fraud Detection in Telecom Networks (TDSC, 2022) [[paper]](https://ieeexplore.ieee.org/document/9983508)
+- Medical Insurance Fraud Detection using Graph Neural Networks with Spatio-temporal Constraints (Journal of Network Intelligence, 2022) [[paper]](https://bit.kuas.edu.tw/~jni/2022/vol7/s2/14.JNI0311.pdf)
 
 
 
