@@ -182,83 +182,83 @@ To be continued...
 - Self-supervised learning for anomalous channel detection in eeg graphs: Application to seizure analysis (AAAI, 2023) [[paper]](https://arxiv.org/abs/2208.07448)
 
 ### Smart Transportation
-- Diffusion convolutional recurrent neural network: Data-driven traffic forecasting
-- Spatio-temporal graph convolutional networks: A deep learning framework for traffic forecasting
-- Urban traffic prediction from spatio-temporal data using deep meta learning
-- Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting
-- Traffic Flow Prediction via Spatial Temporal Graph Neural Network
-- GMAN: A Graph Multi-Attention Network for Traffic Prediction
-- Spatio-Temporal Graph Structure Learning for Traffic Forecasting
-- Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting
-- ST-GRAT: A Novel Spatio-temporal Graph Attention Network forAccurately Forecasting Dynamically Changing Road Speed
-- Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting
-- Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting
-- Hierarchical Graph Convolution Network for Traffic Forecasting
-- TrafficStream: A Streaming Traffic Flow Forecasting Framework Based on Graph Neural Networks and Continual Learning
-- Dynamic Spatiotemporal Graph Convolutional Neural Networks for Traffic Data Imputation with Complex Missing Patterns
-- A deep learning approach for flight delay prediction through time-evolving graphs.
-- Dynstgat: Dynamic spatial-temporal graph attention network for traffic signal control
-- DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting
-- Domain Adversarial Spatial-Temporal Network: A Transferable Framework for Short-term Traffic Forecasting across Cities
-- Graph Neural Controlled Differential Equations for Traffic Forecasting
-- FOGS: First-Order Gradient Supervision with Learning-based Graph for Traffc Flow Forecasting
-- Adaptive Graph Spatial-Temporal Transformer Network for Traffic Flow Forecasting
-- A Multi-Attention Tensor Completion Network for Spatiotemporal Traffic Data Imputation
-- SGDAN: A spatio-temporal graph dual-attention neural network for quantified flight delay prediction
-- Spatio-Temporal Meta-Graph Learning for Traffic Forecasting
-- Dynamic graph convolutional recurrent imputation network for spatiotemporal traffic missing data
-- Bidirectional spatial–temporal traffic data imputation via graph attention recurrent neural network
-- Memory-augmented dynamic graph convolution networks for traffic data imputation with diverse missing patterns
-- STGSA: A Novel Spatial-Temporal Graph Synchronous Aggregation Model for Traffic Prediction
-- Spatial–Temporal Complex Graph Convolution Network for Traffic Flow Prediction
-- Long Short-Term Fusion Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting
-- Traffic Flow Forecasting in the COVID-19: A Deep Spatial-Temporal Model Based on Discrete Wavelet Transformation
-- Trajectory prediction for autonomous driving based on multiscale spatial‐temporal graph
-- Predictive Neural Motion Planner for Autonomous Driving Using Graph Networks
-- SAT-GCN: Self-attention graph convolutional network-based 3D object detection for autonomous driving
-- Large-Scale Traffic Data Imputation with Spatiotemporal Semantic Understanding
+- Diffusion convolutional recurrent neural network: Data-driven traffic forecasting (ICLR, 2018) [[paper]](https://arxiv.org/pdf/1707.01926.pdf)
+- Spatio-temporal graph convolutional networks: A deep learning framework for traffic forecasting (IJCAI, 2018) [[paper]](https://arxiv.org/pdf/1709.04875.pdf)
+- Urban traffic prediction from spatio-temporal data using deep meta learning (KDD, 2019) [[paper]](http://urban-computing.com/pdf/kdd_2019_camera_ready_ST_MetaNet.pdf)
+- Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting (AAAI, 2020) [[paper]](https://arxiv.org/pdf/1911.12093.pdf)
+- Traffic Flow Prediction via Spatial Temporal Graph Neural Network (WWW, 2020) [[paper]](https://dl.acm.org/doi/abs/10.1145/3366423.3380186)
+- GMAN: A Graph Multi-Attention Network for Traffic Prediction (AAAI, 2020) [[paper]](https://arxiv.org/pdf/1911.08415.pdf)
+- Spatio-Temporal Graph Structure Learning for Traffic Forecasting (AAAI, 2020) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5470/5326)
+- Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting (NeurIPS, 2020) [[paper]](https://arxiv.org/pdf/2007.02842.pdf)
+- ST-GRAT: A Novel Spatio-temporal Graph Attention Network forAccurately Forecasting Dynamically Changing Road Speed (CIKM, 2020) [[paper]](https://arxiv.org/pdf/1911.13181.pdf)
+- Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting (KDD, 2021) [[paper]](https://arxiv.org/pdf/2106.12931.pdf)
+- Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting (AAAI, 2021) [[paper]](https://arxiv.org/pdf/2012.09641.pdf)
+- Hierarchical Graph Convolution Network for Traffic Forecasting (AAAI, 2021) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16088/15895)
+- TrafficStream: A Streaming Traffic Flow Forecasting Framework Based on Graph Neural Networks and Continual Learning (IJCAI, 2021) [[paper]](https://arxiv.org/pdf/2106.06273.pdf)
+- Dynamic Spatiotemporal Graph Convolutional Neural Networks for Traffic Data Imputation with Complex Missing Patterns (arXiv, 2021) [[paper]](https://arxiv.org/pdf/2109.08357.pdf)
+- A deep learning approach for flight delay prediction through time-evolving graphs (IEEE TITS, 2021) [[paper]](https://ieeexplore.ieee.org/document/9512525)
+- Dynstgat: Dynamic spatial-temporal graph attention network for traffic signal control (CIKM, 2021) [[paper]](https://arxiv.org/pdf/2109.05491v1.pdf)
+- DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting (ICML, 2022) [[paper]](https://proceedings.mlr.press/v162/lan22a/lan22a.pdf)
+- Domain Adversarial Spatial-Temporal Network: A Transferable Framework for Short-term Traffic Forecasting across Cities (CIKM, 2022) [[paper]](https://arxiv.org/pdf/2202.03630.pdf)
+- Graph Neural Controlled Differential Equations for Traffic Forecasting (AAAI, 2022) [[paper]](https://arxiv.org/pdf/2112.03558.pdf)
+- FOGS: First-Order Gradient Supervision with Learning-based Graph for Traffc Flow Forecasting (IJCAI, 2022) [[paper]](https://www.ijcai.org/proceedings/2022/0545.pdf)
+- Adaptive Graph Spatial-Temporal Transformer Network for Traffic Flow Forecasting (arXiv, 2022) [[paper]](https://arxiv.org/pdf/2207.05064.pdf)
+- A Multi-Attention Tensor Completion Network for Spatiotemporal Traffic Data Imputation (IEEE Internet of Things Journal, 2022) [[paper]](https://ieeexplore.ieee.org/document/9766153)
+- SGDAN: A spatio-temporal graph dual-attention neural network for quantified flight delay prediction (Sensors, 2022) [[paper]](https://www.mdpi.com/1424-8220/20/22/6433)
+- Spatio-Temporal Meta-Graph Learning for Traffic Forecasting (AAAI, 2023) [[paper]](https://arxiv.org/pdf/2211.14701.pdf)
+- Dynamic graph convolutional recurrent imputation network for spatiotemporal traffic missing data (Knowledge-Based Systems, 2023) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0950705122012849)
+- Bidirectional spatial–temporal traffic data imputation via graph attention recurrent neural network (Neuralcomputing, 2023) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231223001558)
+- Memory-augmented dynamic graph convolution networks for traffic data imputation with diverse missing patterns (Transportation Research Part C, 2023) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0968090X22002479)
+- STGSA: A Novel Spatial-Temporal Graph Synchronous Aggregation Model for Traffic Prediction (IEEE/CAA Journal of Automatica Sinica, 2023) [[paper]](https://ieeexplore.ieee.org/document/10007913)
+- Spatial–Temporal Complex Graph Convolution Network for Traffic Flow Prediction (Engineering Applications of Artificial Intelligence, 2023) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0952197623002282)
+- Long Short-Term Fusion Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting (Electronics, 2023) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16542/16349)
+- Traffic Flow Forecasting in the COVID-19: A Deep Spatial-Temporal Model Based on Discrete Wavelet Transformation (ACM TKDD, 2023) [[paper]](https://dl.acm.org/doi/10.1145/3564753)
+- Trajectory prediction for autonomous driving based on multiscale spatial‐temporal graph (IET Intelligent Transport Systems, 2023) [[paper]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12265)
+- Predictive Neural Motion Planner for Autonomous Driving Using Graph Networks (IEEE TIV, 2023) [[paper]](https://ieeexplore.ieee.org/document/10007035)
+- SAT-GCN: Self-attention graph convolutional network-based 3D object detection for autonomous driving (Knowledge-Based Systems, 2023) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0950705122011765)
+- Large-Scale Traffic Data Imputation with Spatiotemporal Semantic Understanding (arXiv, 2023) [[paper]](https://arxiv.org/pdf/2301.11691.pdf)
 
 ### On-Demand Services
-- Deep multi-view spatial-temporal network for taxi demand prediction
-- Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting
-- STG2Seq: Spatial-Temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting
-- Spatio-temporal graph convolutional and recurrent networks for citywide passenger demand prediction
-- Graph convolutional network approach applied to predict hourly bike-sharing demands considering spatial, temporal, and global effects
-- Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems
-- Multi-task spatial-temporal graph attention network for taxi demand prediction
-- Residential Electric Load Forecasting via Attentive Transfer of Graph Neural Networks
-- A comparative study of using spatial-temporal graph convolutional networks for predicting availability in bike sharing schemes
-- Multi-community passenger demand prediction at region level based on spatio-temporal graph convolutional network
-- Demand prediction for a public bike sharing program based on spatio-temporal graph convolutional networks
-- Uncertainty Quantification of Sparse Travel Demand Prediction with Spatial-Temporal Graph Neural Networks
-- Graph2Route: A Dynamic Spatial-Temporal Graph Neural Network for Pick-up and Delivery Route Prediction
-- Short-term prediction of bike-sharing demand using multi-source data: a spatial-temporal graph attentional LSTM approach
-- Coupling graph deep learning and spatial-temporal influence of built environment for short-term bus travel demand prediction
-- A data-driven spatial-temporal graph neural network for docked bike prediction
-- Multi-Attribute Spatial-temporal Graph Convolutional Network for Taxi Demand Forecasting
-- A graph-attention based spatial-temporal learning framework for tourism demand forecasting
-- On region-level travel demand forecasting using multi-task adaptive graph attention network
+- Deep multi-view spatial-temporal network for taxi demand prediction (AAAI, 2018) [[paper]](https://arxiv.org/pdf/1802.08714.pdf)
+- Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting (AAAI, 2019) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4247)
+- STG2Seq: Spatial-Temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting (IJCAI, 2019) [[paper]](https://arxiv.org/pdf/1905.10069.pdf)
+- Spatio-temporal graph convolutional and recurrent networks for citywide passenger demand prediction (CIKM, 2019) [[paper]](https://opus.lib.uts.edu.au/bitstream/10453/136768/1/Spatio-Temporal%20Graph%20Convolutional%20and%20Recurrent%20Networks%20for%20Citywide%20Passenger%20Demand%20Prediction.pdf)
+- Graph convolutional network approach applied to predict hourly bike-sharing demands considering spatial, temporal, and global effects (PLOS ONE, 2019) [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266221)
+- Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems (WWW, 2020) [[paper]](https://dl.acm.org/doi/abs/10.1145/3366423.3380097)
+- Multi-task spatial-temporal graph attention network for taxi demand prediction (ICMAI, 2020) [[paper]](https://dl.acm.org/doi/10.1145/3395260.3395266)
+- Residential Electric Load Forecasting via Attentive Transfer of Graph Neural Networks (IJCAI, 2021) [[paper]](https://www.ijcai.org/proceedings/2021/0374.pdf)
+- A comparative study of using spatial-temporal graph convolutional networks for predicting availability in bike sharing schemes (ITS, 2021) [[paper]](https://arxiv.org/pdf/2104.10644.pdf)
+- Multi-community passenger demand prediction at region level based on spatio-temporal graph convolutional network (Transportation Research Part C, 2021) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0968090X20308482)
+- Demand prediction for a public bike sharing program based on spatio-temporal graph convolutional networks (Multimedia Tools and Applications, 2021) [[paper]](https://link.springer.com/article/10.1007/s11042-020-08803-y)
+- Uncertainty Quantification of Sparse Travel Demand Prediction with Spatial-Temporal Graph Neural Networks (KDD, 2022) [[paper]](https://arxiv.org/pdf/2208.05908.pdf)
+- Graph2Route: A Dynamic Spatial-Temporal Graph Neural Network for Pick-up and Delivery Route Prediction (kDD, 2022) [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539084)
+- Short-term prediction of bike-sharing demand using multi-source data: a spatial-temporal graph attentional LSTM approach (Applied Sciences, 2022) [[paper]](https://www.mdpi.com/2076-3417/12/3/1161)
+- Coupling graph deep learning and spatial-temporal influence of built environment for short-term bus travel demand prediction (Computers, Environment and Urban Systems, 2022) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0198971522000205)
+- A data-driven spatial-temporal graph neural network for docked bike prediction (ICDE, 2022) [[paper]](https://ieeexplore.ieee.org/document/9835338)
+- Multi-Attribute Spatial-temporal Graph Convolutional Network for Taxi Demand Forecasting (ICBDT, 2022) [[paper]](https://dl.acm.org/doi/abs/10.1145/3565291.3565301)
+- A graph-attention based spatial-temporal learning framework for tourism demand forecasting (Knowledge-Based Systems, 2023) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0950705123000254)
+- On region-level travel demand forecasting using multi-task adaptive graph attention network (Information Sciences, 2023) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025522014505)
 
 ### Environment & Sustainable Energy
-- Spatio-temporal graph deep neural network for short-term wind speed forecasting
-- M2GSNet: Multi-Modal Multi-Task Graph Spatiotemporal Network for Ultra-Short-Term Wind Farm Cluster Power Prediction
-- Superposition graph neural network for offshore wind power prediction
-- Spatio-temporal graph neural networks for multi-site PV power forecasting
-- Spatiotemporal graph neural network for performance prediction of photovoltaic power systems.
-- A graph neural network based deep learning predictor for spatio-temporal group solar irradiance forecasting
-- Forecasting PM2. 5 using hybrid graph convolution-based model considering dynamic wind-field to offer the benefit of spatial interpretability
-- Forecasting Global Weather with Graph Neural Networks
-- Promoting wind energy for sustainable development by precise wind speed prediction based on graph neural networks
-- Short-term wind power prediction via spatial temporal analysis and deep residual networks
-- A robust spatio‐temporal prediction approach for wind power generation based on spectral temporal graph neural network
-- Interpretable deep learning models for hourly solar radiation prediction based on graph neural network and attention
-- A new ensemble spatio-temporal PM2. 5 prediction method based on graph attention recursive networks and reinforcement learning
-- Short-term wind speed forecasting based on spatial-temporal graph transformer networks
-- Optimal Graph Structure based Short-term Solar PV Power Forecasting Method Considering Surrounding Spatio-temporal Correlations
-- Condition monitoring of wind turbines with the implementation of spatio-temporal graph neural network
-- Cost-effective fault diagnosis of nearby photovoltaic systems using graph neural networks
-- Maximising Weather Forecasting Accuracy through the Utilisation of Graph Neural Networks and Dynamic GNNs
-- Spatiotemporal air pollution forecasting in houston-TX: a case study for ozone using deep graph neural networks
+- Spatio-temporal graph deep neural network for short-term wind speed forecasting (IEEE TSTE, 2018) [[paper]](https://ieeexplore.ieee.org/abstract/document/8371625)
+- M2GSNet: Multi-Modal Multi-Task Graph Spatiotemporal Network for Ultra-Short-Term Wind Farm Cluster Power Prediction (Applied Sciences, 2020) [[paper]](https://www.mdpi.com/2076-3417/10/21/7915)
+- Superposition graph neural network for offshore wind power prediction (FGCS, 2020) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167739X19330626)
+- Spatio-temporal graph neural networks for multi-site PV power forecasting (IEEE TSTE, 2021) [[paper]](https://arxiv.org/pdf/2107.13875.pdf)
+- Spatiotemporal graph neural network for performance prediction of photovoltaic power systems (AAAI, 2021) [[paper]](https://cdn.aaai.org/ojs/17799/17799-13-21293-1-2-20210518.pdf)
+- A graph neural network based deep learning predictor for spatio-temporal group solar irradiance forecasting (IEEE TII, 2021) [[paper]](https://ieeexplore.ieee.org/document/9653868)
+- Forecasting PM2. 5 using hybrid graph convolution-based model considering dynamic wind-field to offer the benefit of spatial interpretability (Environmental Pollution, 2021) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0269749121000518)
+- Forecasting Global Weather with Graph Neural Networks (arXiv, 2022) [[paper]](https://arxiv.org/pdf/2202.07575.pdf)
+- Promoting wind energy for sustainable development by precise wind speed prediction based on graph neural networks (Renewable Energy, 2022) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0960148122013866)
+- Short-term wind power prediction via spatial temporal analysis and deep residual networks (Frontiers in Energy Research, 2022) [[paper]](https://www.frontiersin.org/articles/10.3389/fenrg.2022.920407/full)
+- A robust spatio‐temporal prediction approach for wind power generation based on spectral temporal graph neural network (IET Renewable Power Generation, 2022) [[paper]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/rpg2.12449)
+- Interpretable deep learning models for hourly solar radiation prediction based on graph neural network and attention (Applied Energy, 2022) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0306261922006432)
+- A new ensemble spatio-temporal PM2. 5 prediction method based on graph attention recursive networks and reinforcement learning (Chaos, Solitons & Fractals, 2022) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0960077922006154)
+- Short-term wind speed forecasting based on spatial-temporal graph transformer networks (Energy, 2022) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0360544222009987)
+- Optimal Graph Structure based Short-term Solar PV Power Forecasting Method Considering Surrounding Spatio-temporal Correlations (IEEE TIA, 2022) [[paper]](https://ieeexplore.ieee.org/document/9914680)
+- Condition monitoring of wind turbines with the implementation of spatio-temporal graph neural network (Engineering Applications of Artificial Intelligence, 2023) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0952197623001847)
+- Cost-effective fault diagnosis of nearby photovoltaic systems using graph neural networks (Energy, 2023) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0360544222033308)
+- Maximising Weather Forecasting Accuracy through the Utilisation of Graph Neural Networks and Dynamic GNNs (arXiv, 2023) [[paper]](https://arxiv.org/pdf/2301.12471v1.pdf)
+- Spatiotemporal air pollution forecasting in houston-TX: a case study for ozone using deep graph neural networks (Atmosphere, 2023) [[paper]](https://www.mdpi.com/2073-4433/14/2/308)
 
 ### Internet of Things
 - Joint interaction and trajectory prediction for autonomous driving using graph neural network (arXiv, 2019) [[paper]](https://arxiv.org/abs/1912.07882)
