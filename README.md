@@ -28,7 +28,6 @@ We provide two taxonomies for GNN4TS. The first taxonomy (left) is task-oriented
 ## Table of Contents
 - [Awesome-GNN4TS](#awesome-gnn4ts)
   - [News](#news)
-  - [Related Surveys](#related-surveys)
   - [Collection of Papers](#collection-of-papers)
     - [GNNs for Time Series Forecasting (GNN4TSF)](#gnns-for-time-series-forecasting-gnn4tsf)
     - [GNNs for Time Series Classification (GNN4TSC)](#gnns-for-time-series-classification-gnn4tsc)
@@ -36,24 +35,6 @@ We provide two taxonomies for GNN4TS. The first taxonomy (left) is task-oriented
     - [GNNs for Time Series Imputation (GNN4TSI)](#gnns-for-time-series-imputation-gnn4tsi)
   - [Collection of Datasets](#collection-of-datasets)
   - [Applications](#applications)
-
-## Related Surveys
-
-- Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey (arXiv, 2023) [[paper]](https://arxiv.org/abs/2303.14483)
-- Spatio-Temporal Graph Neural Networks: A Survey (arXiv, 2023) [[paper]](https://arxiv.org/pdf/2301.10569.pdf)
-- Graph-based Time-Series Anomaly Detection: A Survey (arXiv, 2023) [[paper]](https://arxiv.org/pdf/2302.00058.pdf)
-- Graph Neural Networks in IoT: A Survey (TOSN, 2023) [[paper]](https://dl.acm.org/doi/10.1145/3565973)
-- Graph Neural Network for Traffic Forecasting: The Research Progress (ISPRS Int. J. Geo-Inf., 2023) [[paper]](https://www.mdpi.com/2220-9964/12/3/100)
-- Graph Neural Network for Traffic Forecasting: A Survey (Expert Syst. Appl., 2022) [[paper]](https://arxiv.org/abs/2101.11174)
-- Spatial-temporal graph neural network for traffic forecasting: An overview and open research issues (Appl. Intell., 2022) [[paper]](https://link.springer.com/article/10.1007/s10489-021-02587-w)
-
-- Transformers in Time Series: A Survey (IJCAI, 2023) [[paper]](https://arxiv.org/abs/2202.07125)
-- Time Series Data Augmentation for Deep Learning: A Survey (IJCAI, 2021) [[paper]](https://arxiv.org/abs/2002.12478)
-- Time Series Data Imputation: A Survey on Deep Learning Approaches (arXiv, 2020) [[paper]](https://arxiv.org/abs/2011.11347)
-- Deep learning for time series classification: a review (Data Mining and Knowledge Discovery, 2019) [[paper]](https://arxiv.org/pdf/1809.04356.pdf)
-- A review on outlier/anomaly detection in time series data (CSUR, 2021) [[paper]](https://arxiv.org/pdf/2011.11347.pdf)
-- Deep Learning on Traffic Prediction: Methods, Analysis and Future Directions (TITS, 2022) [[paper]](https://arxiv.org/pdf/2004.08555.pdf)
-- Deep Learning for Spatio-Temporal Data Mining: A Survey (TKDE, 2020) [[paper]](https://arxiv.org/pdf/1906.04928.pdf)
 
 ## Collection of Papers
 
