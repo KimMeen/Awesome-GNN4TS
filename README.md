@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
  ![](https://img.shields.io/github/last-commit/KimMeen/Awesome-GNN4TS?color=green)
 ![](https://img.shields.io/github/stars/KimMeen/Awesome-GNN4TS?color=yellow)
-![](https://img.shields.io/github/forks/KimMeen/Awesome-GNN4TS?color=lightblue) 
+![](https://img.shields.io/github/forks/KimMeen/Awesome-GNN4TS?color=lightblue)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 
