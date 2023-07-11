@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 
-Abundant resources related to **GNNs for Time Series Analysis (GNN4TS)** 🔥
+Abundant resources related to [**GNNs for Time Series Analysis (GNN4TS)**](https://arxiv.org/pdf/2307.03759.pdf) 🔥
 
 <p align="center">
 <img src="./assets/gnn4ts.png" width="400">
@@ -22,7 +22,7 @@ Time series analysis is a fundamental task in many real-world applications, such
 We provide two taxonomies for GNN4TS. The first taxonomy (left) is task-oriented and the second taxonomy (right) is model-oriented. The task-oriented taxonomy is based on the tasks that GNNs are used for in time series analysis. The model-oriented taxonomy is based on the types of GNNs used in time series analysis.
 
 ## News
-
+- [2023-07-07] 🔥 Our GNN4TS survey (*ver. 11 Jul*) is made available on arXiv [[paper link]](https://arxiv.org/pdf/2307.03759.pdf)
 - [2023-06-19] 🔥 We have released this repository that collects the resources related to GNNs for time series analysis (GNN4TS). We will keep updating this repository, and welcome to **STAR** and **WATCH** to keep track of it.
 
 ## Table of Contents
