@@ -8,6 +8,8 @@
 
 
 Abundant resources related to [**GNNs for Time Series Analysis (GNN4TS)**](https://arxiv.org/pdf/2307.03759.pdf) 🔥
+by _[Ming Jin](https://mingjin.dev/), Huan Yee Koh, Qingsong Wen, [Daniele Zambon](https://dzambon.github.io), [Cesare Alippi](https://alippi.faculty.polimi.it/), Geoffrey I. Webb, Irwin King, [Shirui Pan](https://shiruipan.github.io/)_
+
 
 <p align="center">
 <img src="./assets/gnn4ts.png" width="400">
@@ -42,6 +44,7 @@ We provide two taxonomies for GNN4TS. The first taxonomy (left) is task-oriented
 - Diffusion convolutional recurrent neural network: Data-driven traffic forecasting (ICLR, 2018) [[paper]](https://arxiv.org/pdf/1707.01926.pdf)
 - Spatio-temporal graph convolutional networks: A deep learning framework for traffic forecasting (IJCAI, 2018) [[paper]](https://arxiv.org/pdf/1709.04875.pdf)
 - Urban traffic prediction from spatio-temporal data using deep meta learning (KDD, 2019) [[paper]](http://urban-computing.com/pdf/kdd_2019_camera_ready_ST_MetaNet.pdf)
+- Autoregressive Models for Sequences of Graphs (IEEE IJCNN, 2019) [[paper]](https://arxiv.org/abs/1903.07299)
 - ST-UNet: A Spatio-Temporal U-Network forGraph-structured Time Series Modeling (arXiv, 2019) [[paper]](https://arxiv.org/pdf/1903.05631.pdf)
 - Dynamic Spatial-Temporal Graph Convolutional Neural Networks for Traffic Forecasting (AAAI, 2019) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/3877/3755)
 - Graph Attention Recurrent Neural Networks for Correlated Time Series Forecasting (MileTS, 2019) [[paper]](https://kdd-milets.github.io/milets2019/papers/milets19_paper_8.pdf)
@@ -66,6 +69,7 @@ We provide two taxonomies for GNN4TS. The first taxonomy (left) is task-oriented
 - Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction (ECCV, 2020) [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570494.pdf)
 - Discrete Graph Structure Learning for Forecasting Multiple Time Series (ICLR, 2021) [[paper]](https://arxiv.org/pdf/2101.06861.pdf)
 - MTHetGNN: A heterogeneous graph embedding framework for multivariate time series forecasting (Pattern Recognition, 2021) [[paper]](https://arxiv.org/pdf/2008.08617.pdf)
+- Graph Edit Networks (ICLR, 2021) [[paper]](https://openreview.net/forum?id=dlEJsyHGeaL)
 - Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting (ICML, 2021) [[paper]](https://arxiv.org/pdf/2105.04100.pdf)
 - Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting (KDD, 2021) [[paper]](https://arxiv.org/pdf/2106.12931.pdf)
 - Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting (AAAI, 2021) [[paper]](https://arxiv.org/pdf/2012.09641.pdf)
@@ -87,6 +91,10 @@ We provide two taxonomies for GNN4TS. The first taxonomy (left) is task-oriented
 - Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Graph Attention (IJCAI, 2022) [[paper]](https://arxiv.org/pdf/2204.11008.pdf)
 - FOGS: First-Order Gradient Supervision with Learning-based Graph for Traffc Flow Forecasting (IJCAI, 2022) [[paper]](https://www.ijcai.org/proceedings/2022/0545.pdf)
 - METRO: A Generic Graph Neural Network Framework for Multivariate Time Series Forecasting (VLDB, 2022) [[paper]](https://zheng-kai.com/paper/vldb_2022_cui.pdf)
+- Scalable Spatiotemporal Graph Neural Networks (AAAI, 2023) [[paper]](https://arxiv.org/abs/2209.06520) 
+- Graph State-Space Models (arXiv, 2023) [[paper]](https://arxiv.org/abs/2301.01741)
+- Graph Kalman Filters (arXiv, 2023) [[paper]](https://arxiv.org/abs/2303.12021)
+- Graph-based Time Series Clustering for End-to-End Hierarchical Forecasting (arXiv, 2023) [[paper]](https://arxiv.org/abs/2305.19183)
 - Adaptive Graph Spatial-Temporal Transformer Network for Traffic Flow Forecasting (arXiv, 2022) [[paper]](https://arxiv.org/pdf/2207.05064.pdf)
 - DiffSTG: Probabilistic Spatio-Temporal Graph Forecasting with Denoising Diffusion Models (arXiv, 2023) [[paper]](https://arxiv.org/pdf/2301.13629.pdf)
 - How Expressive are Spectral-Temporal Graph Neural Networks for Time Series Forecasting? (arXiv, 2023) [[paper]](https://arxiv.org/pdf/2305.06587.pdf)
@@ -105,6 +113,7 @@ We provide two taxonomies for GNN4TS. The first taxonomy (left) is task-oriented
 - TodyNet: Temporal Dynamic Graph Neural Network for Multivariate Time Series Classification (arXiv, 2023) [[paper]](https://arxiv.org/abs/2304.05078)
 
 ### GNNs for Time Series Anomaly Detection (GNN4TAD)
+- Change Detection in Graph Streams by Learning Graph Embeddings on Constant-Curvature Manifolds (IEEE TNNLS, 2019)[[paper]](https://arxiv.org/abs/1805.06299)
 - Multivariate time-series anomaly detection via graph attention network (ICDM, 2020) [[paper]](https://arxiv.org/abs/2009.02040)
 - Graph Neural Network-Based Anomaly Detection in Multivariate Time Series (AAAI, 2021) [[paper]](https://arxiv.org/abs/2106.06947)
 - Learning Graph Structures with Transformer for Multivariate Time Series Anomaly Detection in IoT (IEEE IoT, 2021) [[paper]](https://arxiv.org/abs/2104.03466)
@@ -118,6 +127,7 @@ We provide two taxonomies for GNN4TS. The first taxonomy (left) is task-oriented
 - Hypergraph Learning based Recommender System for Anomaly Detection, Control and Optimization (IEEE Big Data, 2023) [[paper]](https://ieeexplore.ieee.org/document/10020888)
 - Hybrid anomaly detection via multihead dynamic graph attention networks for multivariate time series (IEEE Access, 2022) [[paper]](https://ieeexplore.ieee.org/document/9758699)
 - Graph convolutional adversarial networks for spatiotemporal anomaly detection. (IEEE TNNLS, 2022) [[paper]](https://ieeexplore.ieee.org/document/9669110)
+- Graph iForest: Isolation of anomalous and outlier graphs (IEEE IJCNN, 2022)[[paper]] (https://ieeexplore.ieee.org/document/9892295)
 - Multivariate Time Series Anomaly Detection via Dynamic Graph Forecasting (arXiv, 2023) [[paper]](https://arxiv.org/abs/2302.02051)
 - Time Series Subsequence Anomaly Detection via Graph Neural Networks (OpenReview, 2023) [[paper]](https://openreview.net/forum?id=73U_NlKaNx) 
 - VARIATIONAL ADAPTIVE GRAPH TRANSFORMER FOR MULTIVARIATE TIME SERIES MODELING (OpenReview, 2023) [[paper]](https://openreview.net/forum?id=PWWW73yQVp)
