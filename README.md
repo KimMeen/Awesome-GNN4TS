@@ -7,8 +7,8 @@
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 
-Abundant resources related to [**GNNs for Time Series Analysis (GNN4TS)**](https://arxiv.org/pdf/2307.03759.pdf) 🔥
-by _[Ming Jin](https://mingjin.dev/), Huan Yee Koh, Qingsong Wen, [Daniele Zambon](https://dzambon.github.io), [Cesare Alippi](https://alippi.faculty.polimi.it/), Geoffrey I. Webb, Irwin King, [Shirui Pan](https://shiruipan.github.io/)_
+Abundant resources related to [**GNNs for Time Series Analysis (GNN4TS)**](https://arxiv.org/pdf/2307.03759.pdf) 🔥   
+by _[Ming Jin](https://mingjin.dev/), Huan Yee Koh, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), [Daniele Zambon](https://dzambon.github.io), [Cesare Alippi](https://alippi.faculty.polimi.it/), [Geoffrey I. Webb](https://i.giwebb.com/), [Irwin King](http://www.cse.cuhk.edu.hk/irwin.king/), [Shirui Pan](https://shiruipan.github.io/)_
 
 
 <p align="center">
