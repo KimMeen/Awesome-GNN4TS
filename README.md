@@ -1,21 +1,54 @@
-# Awesome-GNN4TS
+<div align="center">
+  <!-- <h1><b> BasicTS </b></h1> -->
+  <!-- <h2><b> BasicTS </b></h2> -->
+  <h2><b> Awesome Graph Neural Networks for Time Series Analysis (GNN4TS) </b></h2>
+</div>
+
+<div align="center">
+
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/KimMeen/Awesome-GNN4TS)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
- ![](https://img.shields.io/github/last-commit/KimMeen/Awesome-GNN4TS?color=green)
+![](https://img.shields.io/github/last-commit/KimMeen/Awesome-GNN4TS?color=green)
 ![](https://img.shields.io/github/stars/KimMeen/Awesome-GNN4TS?color=yellow)
 ![](https://img.shields.io/github/forks/KimMeen/Awesome-GNN4TS?color=lightblue)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
+</div>
 
-Abundant resources related to [**GNNs for Time Series Analysis (GNN4TS)**](https://arxiv.org/pdf/2307.03759.pdf) 🔥   
-by _[Ming Jin](https://mingjin.dev/), Huan Yee Koh, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), [Daniele Zambon](https://dzambon.github.io), [Cesare Alippi](https://alippi.faculty.polimi.it/), [Geoffrey I. Webb](https://i.giwebb.com/), [Irwin King](http://www.cse.cuhk.edu.hk/irwin.king/), [Shirui Pan](https://shiruipan.github.io/)_
+<div align="center">
 
+**[<a href="https://arxiv.org/abs/2307.03759">Paper Page</a>]**
+**[<a href="https://zhuanlan.zhihu.com/p/643249754">中文解读1</a>]**
+**[<a href="https://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247507893&idx=1&sn=99ef8465c09cbcd3346d2d4019f7b3b5&chksm=c32ac63af45d4f2c1141d31923252ca6bbff123564c9424d452f046ab98854a3219dbd08d01d#rd">中文解读2</a>]**
+
+</div>
 
 <p align="center">
-<img src="./assets/gnn4ts.png" width="400">
+
+<img src="./assets/gnn4ts.png" width="350">
+
 </p>
 
+---
+
+> 🔥 Abundant resources related to [**GNNs for time series analysis (GNN4TS)**](https://arxiv.org/abs/2307.03759) by _[Ming Jin](https://mingjin.dev/), [Huan Yee Koh](https://shiruipan.github.io/authors/huan-yee-koh/), [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), [Daniele Zambon](https://dzambon.github.io), [Cesare Alippi](https://alippi.faculty.polimi.it/), [Geoffrey I. Webb](https://i.giwebb.com/), [Irwin King](http://www.cse.cuhk.edu.hk/irwin.king/), [Shirui Pan](https://shiruipan.github.io/)_
+>
+> 🙋 Please let us know if you find out a mistake or have any suggestions!
+> 
+> 🌟 If you find this resource helpful, please consider to star this repository and cite our survey paper:
+
+```
+@article{jin2023survey,
+  title={A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection},
+  author={Jin, Ming and Koh, Huan Yee and Wen, Qingsong and Zambon, Daniele and Alippi, Cesare and Webb, Geoffrey I and King, Irwin and Pan, Shirui},
+  journal={arXiv preprint arXiv:2307.03759},
+  year={2023}
+}
+```
+
 Time series analysis is a fundamental task in many real-world applications, such as finance, healthcare, and transportation. Recently, graph neural networks (GNNs) have been widely used in time series analysis. This repository aims to collect the resources related to GNNs for time series analysis (GNN4TS).
+
+时间序列分析是许多现实应用场景中的一项基本任务，例如对金融、医疗、和交通运输数据的分析与建模。近年来，图神经网络（GNN）已广泛应用于时间序列分析。本项目旨在收集整理与时间序列分析相关图神经网络（GNN4TS）的资源。
 
 <p align="center">
 <img src="./assets/taxonomy.png" width="1200">
@@ -23,11 +56,14 @@ Time series analysis is a fundamental task in many real-world applications, such
 
 We provide two taxonomies for GNN4TS. The first taxonomy (left) is task-oriented and the second taxonomy (right) is model-oriented. The task-oriented taxonomy is based on the tasks that GNNs are used for in time series analysis. The model-oriented taxonomy is based on the types of GNNs used in time series analysis.
 
-## News
+针对GNN4TS的大框架，我们提出了两种分类法：其一（左）是面向任务的，其次（右）是面向模型的。第一种分类法基于GNN在时间序列分析中施展的具体任务进行划分，第二种分类法则基于时间序列分析中GNN的类型与设计进行归纳。
+
+## ✨ News
+- [2023-08-09] 🔥 Our updated version (*ver. 9 Aug*) is submitted to arXiv and will be made available soon.
 - [2023-07-07] 🔥 Our GNN4TS survey (*ver. 11 Jul*) is made available on arXiv [[paper link]](https://arxiv.org/pdf/2307.03759.pdf)
 - [2023-06-19] 🔥 We have released this repository that collects the resources related to GNNs for time series analysis (GNN4TS). We will keep updating this repository, and welcome to **STAR** and **WATCH** to keep track of it.
 
-## Table of Contents
+## 🔭 Table of Contents
 - [Awesome-GNN4TS](#awesome-gnn4ts)
   - [News](#news)
   - [Collection of Papers](#collection-of-papers)
@@ -38,7 +74,7 @@ We provide two taxonomies for GNN4TS. The first taxonomy (left) is task-oriented
   - [Collection of Datasets](#collection-of-datasets)
   - [Applications](#applications)
 
-## Collection of Papers
+## 📚 Collection of Papers
 
 ### GNNs for Time Series Forecasting (GNN4TSF)
 - Diffusion convolutional recurrent neural network: Data-driven traffic forecasting (ICLR, 2018) [[paper]](https://arxiv.org/pdf/1707.01926.pdf)
