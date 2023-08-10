@@ -59,9 +59,9 @@ We provide two taxonomies for GNN4TS. The first taxonomy (left) is task-oriented
 针对GNN4TS的大框架，我们提出了两种分类法：其一（左）是面向任务的，其次（右）是面向模型的。第一种分类法基于GNN在时间序列分析中施展的具体任务进行划分，第二种分类法则基于时间序列分析中GNN的类型与设计进行归纳。
 
 ## ✨ News
-- [2023-08-09] 🔥 Our updated version (*ver. 9 Aug*) is submitted to arXiv and will be made available soon.
-- [2023-07-07] 🔥 Our GNN4TS survey (*ver. 11 Jul*) is made available on arXiv [[paper link]](https://arxiv.org/pdf/2307.03759.pdf)
-- [2023-06-19] 🔥 We have released this repository that collects the resources related to GNNs for time series analysis (GNN4TS). We will keep updating this repository, and welcome to **STAR** and **WATCH** to keep track of it.
+- [2023-08-09] 🔥 Our updated version (*ver. 10 Aug*) of the survey is released [[paper link]](https://arxiv.org/pdf/2307.03759.pdf)
+- [2023-07-07] 📮 Our GNN4TS survey (*ver. 11 Jul*) is made available on arXiv ~~[[paper link]](https://arxiv.org/pdf/2307.03759.pdf)~~
+- [2023-06-19] 📮 We have released this repository that collects the resources related to GNNs for time series analysis (GNN4TS). We will keep updating this repository, and welcome to **STAR🌟** and **WATCH** to keep track of it.
 
 ## 🔭 Table of Contents
 - [Awesome-GNN4TS](#awesome-gnn4ts)
@@ -185,10 +185,10 @@ We provide two taxonomies for GNN4TS. The first taxonomy (left) is task-oriented
 - Memory-augmented dynamic graph convolution networks for traffic data imputation with diverse missing patterns (Transportation Research Part C, 2023) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0968090X22002479)
 - Large-Scale Traffic Data Imputation with Spatiotemporal Semantic Understanding (arXiv, 2023) [[paper]](https://arxiv.org/pdf/2301.11691.pdf)
 
-## Collection of Datasets
+## 📚 Collection of Datasets
 To be continued...
 
-## Applications
+## 📚 Applications
 
 ### Healthcare
 - GraphConvLSTM: Spatiotemporal Learning for Activity Recognition with Wearable Sensors (GLOBECOM, 2019) [[paper]](https://ieeexplore.ieee.org/document/9013934)
