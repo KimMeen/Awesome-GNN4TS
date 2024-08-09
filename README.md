@@ -18,8 +18,10 @@
 <div align="center">
 
 **[<a href="https://arxiv.org/abs/2307.03759">Paper Page</a>]**
-**[<a href="https://zhuanlan.zhihu.com/p/643249754">中文解读1</a>]**
-**[<a href="https://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247507893&idx=1&sn=99ef8465c09cbcd3346d2d4019f7b3b5&chksm=c32ac63af45d4f2c1141d31923252ca6bbff123564c9424d452f046ab98854a3219dbd08d01d#rd">中文解读2</a>]**
+**[<a href="https://mp.weixin.qq.com/s/_G2WieJPrWcaK8aegXObUA">中文解读1</a>]**
+**[<a href="https://mp.weixin.qq.com/s/ZsSj6C_uJd2dqmynXcrOSA">中文解读2</a>]**
+**[<a href="https://zhuanlan.zhihu.com/p/643249754">中文解读3</a>]**
+**[<a href="https://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247507893&idx=1&sn=99ef8465c09cbcd3346d2d4019f7b3b5&chksm=c32ac63af45d4f2c1141d31923252ca6bbff123564c9424d452f046ab98854a3219dbd08d01d#rd">中文解读4</a>]**
 
 </div>
 
@@ -38,11 +40,11 @@
 > 🌟 If you find this resource helpful, please consider to star this repository and cite our survey paper:
 
 ```
-@article{jin2023survey,
+@article{jin2024gnn4ts,
   title={A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection},
   author={Jin, Ming and Koh, Huan Yee and Wen, Qingsong and Zambon, Daniele and Alippi, Cesare and Webb, Geoffrey I and King, Irwin and Pan, Shirui},
-  journal={arXiv preprint arXiv:2307.03759},
-  year={2023}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+  year={2024}
 }
 ```
 
@@ -59,7 +61,8 @@ We provide two taxonomies for GNN4TS. The first taxonomy (left) is task-oriented
 针对GNN4TS的大框架，我们提出了两种分类法：其一（左）是面向任务的，其次（右）是面向模型的。第一种分类法基于GNN在时间序列分析中施展的具体任务进行划分，第二种分类法则基于时间序列分析中GNN的类型与设计进行归纳。
 
 ## ✨ News
-- [2023-08-09] 🔥 Our updated version (*ver. 10 Aug*) of the survey is released [[paper link]](https://arxiv.org/pdf/2307.03759.pdf)
+- [2024-08-09] 🔥 Our survey was accepted by IEEE TPAMI (IF 20.8). 🎉
+- [2023-08-09] 📮 Our updated version (*ver. 10 Aug*) of the survey is released [[paper link]](https://arxiv.org/pdf/2307.03759.pdf)
 - [2023-07-07] 📮 Our GNN4TS survey (*ver. 11 Jul*) is made available on arXiv ~~[[paper link]](https://arxiv.org/pdf/2307.03759.pdf)~~
 - [2023-06-19] 📮 We have released this repository that collects the resources related to GNNs for time series analysis (GNN4TS). We will keep updating this repository, and welcome to **STAR🌟** and **WATCH** to keep track of it.
 
@@ -186,7 +189,28 @@ We provide two taxonomies for GNN4TS. The first taxonomy (left) is task-oriented
 - Large-Scale Traffic Data Imputation with Spatiotemporal Semantic Understanding (arXiv, 2023) [[paper]](https://arxiv.org/pdf/2301.11691.pdf)
 
 ## 📚 Collection of Datasets
-To be continued...
+| Task Category              | Dataset      | # Samples       | # Nodes | Sampling Rate | Missing Ratio | Data Type          | Source                                                                                                     |
+|----------------------------|--------------|-----------------|---------|---------------|---------------|--------------------|------------------------------------------------------------------------------------------------------------|
+| **Forecasting & Imputation**| METR-LA      | 34,272          | 207     | 5 minutes     | 8.109%        | Traffic Velocity   | https://github.com/liyaguang/DCRNN                                                                         |
+|                             | PeMS-BAY     | 52,116          | 325     | 5 minutes     | 0.003%        | Traffic Velocity   | https://github.com/liyaguang/DCRNN                                                                         |
+|                             | PeMSD3       | 26,208          | 358     | 5 minutes     | 0.672%        | Traffic Volume     | https://github.com/Davidham3/STSGCN                                                                        |
+|                             | PeMSD4       | 16,992          | 307     | 5 minutes     | 3.182%        | Traffic Volume     | https://github.com/Davidham3/STSGCN                                                                        |
+|                             | PeMSD7       | 28,224          | 883     | 5 minutes     | 0.452%        | Traffic Volume     | https://github.com/Davidham3/STSGCN                                                                        |
+|                             | PeMSD8       | 17,856          | 170     | 5 minutes     | 0.696%        | Traffic Volume     | https://github.com/Davidham3/STSGCN                                                                        |
+|                             | Xiamen       | 44,064          | 95      | 5 minutes     | -             | Traffic Volume     | https://ieeexplore.ieee.org/document/8029849                                                               |
+|                             | Beijing      | 278,085         | 36      | 1 hour        | -             | Air Quality Index  | https://dl.acm.org/doi/10.1145/2783258.2788573                                                             |
+|                             | NYC-Bike     | 3.8 million     | 112     | 30 minutes    | -             | Trip Records       | https://citibikenyc.com/system-data                                                                        |
+|                             | NYC-Taxi     | 28.1 million    | 192     | 30 minutes    | -             | Trip Records       | https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page                                              |
+|                             | NYC-Crime    | 31,799 - 85,899 | 256     | 1 day         | -             | Crime Incidents    | https://github.com/LZH-YS1998/STHSL                                                                        |
+|                             | AQI          | 8,759           | 437     | 30 minutes    | 25.7%         | Air Quality Index  | https://torch-spatiotemporal.readthedocs.io/en/latest/modules/datasets_in_tsl.html#tsl.datasets.AirQuality |
+|                             | AQI-36       | 8,759           | 36      | 1 hour        | 13.2%         | Air Quality Index  | https://github.com/Feiyunpublic/dataset-AQI-36                                                             |
+| **Anomaly Detection**       | SMD          | 608,342         | 38      | 1 minute      | 5.84%         | Server Machine     | https://github.com/NetManAIOps/OmniAnomaly                                                                 |
+|                             | SMAP         | 562,800         | 25      | 1 minute      | 13.13%        | Spacecraft Telemetry| https://github.com/NetManAIOps/OmniAnomaly                                                                 |
+|                             | MSL          | 132,046         | 55      | 1 minute      | 10.72%        | Spacecraft Telemetry| https://github.com/NetManAIOps/OmniAnomaly                                                                 |
+|                             | SWaT         | 925,010         | 51      | 1 second      | 11.97%        | Industrial Systems | https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/#swat                                                                                           |
+|                             | WADI         | 1.4 million     | 127     | 1 second      | 5.99%         | Industrial Systems | https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/#wadi                                                                                           |
+| **Classification**          | UCR Archive  | 40-24,000       | 1       | Varies        | -             | Wide Applications  | https://www.cs.ucr.edu/~eamonn/time_series_data/                                                                                           |
+|                             | UEA Repository | 27-50,000      | Varies  | 2-1345        | -             | Wide Applications  | http://www.timeseriesclassification.com/                                                                                           |
 
 ## 📚 Applications
 
